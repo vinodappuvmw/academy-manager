@@ -1,0 +1,17 @@
+.gradle
+build
+.idea
+.vscode
+*.iml
+*.ipr
+*.iws
+.DS_Store
+*.log
+.git
+.gitignore
+README.md
+*.md
+!Dockerfile
+test
+src/test
+
